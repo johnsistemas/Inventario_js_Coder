@@ -1,0 +1,20 @@
+body {
+    background-color: #0082c3;
+    font-family: "Roboto", sans-serif;
+}
+
+.card {
+    margin: 20px;
+    border: none;
+}
+
+.card-title {
+    color: rgb(13, 116, 200);
+    text-align: center;
+
+
+}
+
+.btn {
+    margin-right: 10px;
+}
